@@ -18,7 +18,7 @@ I'm a passionate Python developer who loves coding and creating interesting proj
 Feel free to connect with me on GitHub or reach out for collaboration opportunities!
 
 ## ⭐ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pygrammer&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pygrammerik&show_icons=true&theme=radical)
 
 ---
 ⭐️ From [Pygrammer](https://github.com/Pygrammerik) 
